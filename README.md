@@ -8,4 +8,5 @@ Hello you guys!! I'm Alpian Khairi
 - 📫 How to reach me: https://www.linkedin.com/in/alpiankhairi/
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like to code and solving competitive programming using java and python.
+- R Projects : https://rpubs.com/Alvian2022
 
