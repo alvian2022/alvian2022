@@ -1,6 +1,6 @@
 ### Hi there,  I'm Alpian Khairi 👋
 
-- 🌱 I’m currently learning Data Science, Codeigniter, Nodejs.
+- 🌱 I’m currently working in Data Science & Analytics, Machine Learning, Deep Learning, Large Language Models(Llms) for question answering chatbot etc, Codeigniter.
 - 👯 I’m looking to collaborate on Machine Learning and Backend Web Dev.
 - 💬 Ask me about Machine Learning (R and Python), Deep Learning.
 - 📫 How to reach me: https://www.linkedin.com/in/alpiankhairi/
